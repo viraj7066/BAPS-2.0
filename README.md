@@ -17,5 +17,5 @@
 
 ### Demo Screeshots
 
-![EduHome Desktop Demo](preview 1.jpg "Desktop Demo")
+![EduHome Desktop Demo](preview 1.png "Desktop Demo")
 
