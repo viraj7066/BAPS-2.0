@@ -9,7 +9,7 @@
 
   
 
-  <a href="https://codewithsadee.github.io/eduhome/"><strong>➥ Live Demo</strong></a>
+  <a href="https://viraj7066.github.io/BAPS-2.0/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -17,5 +17,5 @@
 
 ### Demo Screeshots
 
-![EduHome Desktop Demo](preview.jpg "Desktop Demo")
+![EduHome Desktop Demo](preview 1.jpg "Desktop Demo")
 
